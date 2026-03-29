@@ -1,0 +1,4 @@
+env:
+  DB_HOST: production-db.internal
+  API_KEY: "12345-ABCDE"
+  LOG_LEVEL: debug
