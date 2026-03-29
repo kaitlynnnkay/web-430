@@ -1,2 +1,4 @@
-# web-430
-GitHub Repository for WEB 430 DevOps
+# WEB 430 DevOps
+## Contributors
+* Richard Krasso
+* Kaitlyn Kelly
